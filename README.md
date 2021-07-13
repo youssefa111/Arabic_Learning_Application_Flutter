@@ -5,4 +5,5 @@ and there are games that can play them for fun and learn arabic.
 
 # Screenshots
 
-❮ img src="/Screenshots/1.png" ❯
+![](Screenshots/1.png) 
+
